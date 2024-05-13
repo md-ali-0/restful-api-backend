@@ -8,7 +8,7 @@
         "start": "npm server.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Ali",
     "license": "ISC",
     "description": "",
     "dependencies": {
